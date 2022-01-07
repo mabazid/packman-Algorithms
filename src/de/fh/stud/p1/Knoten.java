@@ -1,6 +1,7 @@
 package de.fh.stud.p1;
 
 import de.fh.pacman.enums.PacmanTileType;
+import de.fh.stud.p3.DotDistance;
 
 import java.util.*;
 
@@ -130,8 +131,8 @@ public class Knoten implements Comparable<Knoten> {
         return false;
     }
 
-    public int countHeuristic(){
-    return countDots() + getCost();
+    public int countHeuristic() {
+        return countDots() + getCost();
     }
 
     public int countDots() {

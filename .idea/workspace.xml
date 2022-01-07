@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5dc90f-cc5e-4776-890a-38a37f431a32" name="Default Changelist" comment="Add 5 Algorithms to find the shortest path" />
+    <list default="true" id="cd5dc90f-cc5e-4776-890a-38a37f431a32" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +14,18 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1jp06Yt6S2a7ADVBItRhLf0krlU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,25 +38,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FxClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.fh.stud.p3.FxClass" />
       <module name="PacmanAgent" />
@@ -114,35 +109,23 @@
       <updated>1604485551156</updated>
       <workItem from="1609276632992" duration="140000" />
       <workItem from="1610721565171" duration="2000" />
-      <workItem from="1611565822695" duration="682000" />
-      <workItem from="1641546019948" duration="310000" />
+      <workItem from="1611565822695" duration="12323000" />
+      <workItem from="1611665255657" duration="9356000" />
+      <workItem from="1611741679959" duration="2886000" />
+      <workItem from="1611762860904" duration="7894000" />
+      <workItem from="1611811464577" duration="21139000" />
+      <workItem from="1611914786967" duration="3431000" />
+      <workItem from="1611981190073" duration="19524000" />
+      <workItem from="1612080755992" duration="13440000" />
+      <workItem from="1612124911543" duration="664000" />
+      <workItem from="1612258294742" duration="2438000" />
     </task>
-    <task id="LOCAL-00001" summary="Add 5 Algorithms to find the shortest path">
-      <created>1641546297065</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1641546297065</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add 5 Algorithms to find the shortest path" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 5 Algorithms to find the shortest path" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PacmanAgent$Server_jar.ic" NAME="Server.jar Coverage Results" MODIFIED="1605988311844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
