@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd5dc90f-cc5e-4776-890a-38a37f431a32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jp06Yt6S2a7ADVBItRhLf0krlU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Server.jar">
+    <configuration name="BaumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fh.stud.p1.BaumTest" />
+      <module name="PacmanAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fh.stud.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAgent_P2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fh.stud.p2.MyAgent_P2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fh.stud.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAgent_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fh.stud.p2.MyAgent_P2" />
+      <module name="PacmanAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fh.stud.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Server.jar" />
+      <option name="VM_PARAMETERS" value="--module-path C:\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_211\jre" />
+      <module name="PacmanAgent" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.BaumTest" />
+      <item itemvalue="Application.MyAgent_P2 (1)" />
+      <item itemvalue="Application.MyAgent_P2" />
+      <item itemvalue="JAR Application.Server.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyAgent_P2" />
+        <item itemvalue="Application.MyAgent_P2 (1)" />
+        <item itemvalue="Application.BaumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd5dc90f-cc5e-4776-890a-38a37f431a32" name="Default Changelist" comment="" />
+      <created>1604485551156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604485551156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="23" key="#Project_Structure" timestamp="1605983512775">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="155" y="23" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1605983512775" />
+    <state x="-1616" y="174" key="#Project_Structure/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605088820813" />
+    <state x="217" y="117" key="#Project_Structure/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346781771" />
+    <state x="280" y="208" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605346853996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1552" y="235" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605088980418" />
+    <state x="280" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346853996" />
+    <state x="674" y="251" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604590553813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="251" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1604590553813" />
+    <state x="505" y="142" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1605983507771">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="505" y="142" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1368.872@0.0.1368.872" timestamp="1605983507771" />
+    <state x="422" y="462" key="DetectedRootsChooserDialog" timestamp="1605982798016">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="422" y="462" key="DetectedRootsChooserDialog/0.0.1368.872@0.0.1368.872" timestamp="1605982798016" />
+    <state x="592" y="551" key="DetectedRootsChooserDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1604503575536" />
+    <state x="378" y="285" key="FileChooserDialogImpl" timestamp="1605983489067">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="378" y="285" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1605983489067" />
+    <state x="-1390" y="341" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604523207971" />
+    <state x="530" y="340" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1604503833295" />
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom" timestamp="1606042587985">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1606042587985" />
+    <state width="1741" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605632550036" />
+    <state width="1741" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605612378633" />
+    <state width="1292" height="211" key="GridCell.Tab.0.center" timestamp="1606042587985">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1606042587985" />
+    <state width="1741" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605632550036" />
+    <state width="1741" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605612378632" />
+    <state width="1292" height="211" key="GridCell.Tab.0.left" timestamp="1606042587984">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1606042587984" />
+    <state width="1741" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605632550036" />
+    <state width="1741" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605612378631" />
+    <state width="1292" height="211" key="GridCell.Tab.0.right" timestamp="1606042587985">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1606042587985" />
+    <state width="1741" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605632550036" />
+    <state width="1741" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605612378633" />
+    <state width="1590" height="328" key="GridCell.Tab.1.bottom" timestamp="1605346649566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604597717469" />
+    <state width="1590" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346649566" />
+    <state width="1590" height="328" key="GridCell.Tab.1.center" timestamp="1605346649566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="276" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604597717469" />
+    <state width="1590" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346649566" />
+    <state width="1590" height="328" key="GridCell.Tab.1.left" timestamp="1605346649566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="276" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604597717469" />
+    <state width="1590" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346649566" />
+    <state width="1590" height="328" key="GridCell.Tab.1.right" timestamp="1605346649566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="276" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604597717469" />
+    <state width="1590" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605346649566" />
+    <state x="342" y="153" key="NewModule_or_Project.wizard" timestamp="1605982621191">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="342" y="153" key="NewModule_or_Project.wizard/0.0.1368.872@0.0.1368.872" timestamp="1605982621191" />
+    <state x="26" y="94" key="SettingsEditor" timestamp="1605983454691">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="26" y="94" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1605983454691" />
+    <state x="-1543" y="190" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1604523522626" />
+    <state x="36" y="112" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1605458716696" />
+    <state x="258" y="229" key="new project wizard" timestamp="1604502869241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="258" y="229" key="new project wizard/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1604502869241" />
+    <state x="-1088" y="231" key="run.anything.popup" timestamp="1605003029433">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1088" y="231" key="run.anything.popup/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1605003029433" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PacmanAgent$Server_jar.ic" NAME="Server.jar Coverage Results" MODIFIED="1605988311844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
