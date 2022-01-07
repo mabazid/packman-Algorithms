@@ -1,0 +1,5 @@
+Der code besteht aus insgesamt 4 Klassen, für den Algorithmus haben wir uns Richtung Markov-Decision-Processes (MDPs) entschieden.
+Es wird für jeden Pacman-Tile-Type ein Standard Wert gegeben und in einem 2dArray von Type double gespeichert. Auf dem Array wird die Methode performMDPs() aufgerufen, welche ihrerseits ausgegangen von der näherten Punkt zu dem Pacman, MDP-Werte berechnet.
+MDPs-Berechnung, es wird der Wert von jeder Nachbarzellen bzw. Position mit Discount von (0.8) multipliziert und ein Schrittkost von (0.01) subtrahiert, alle Ergebnisse von Nachbarpositionen werden dann zusammenaddiert und als MDP für die aktuelle Position eingegeben.
+
+Über getNextPosition() wird die nächste Position für den Pacman bestimmt, da werden die Werte von den Nachbaren Positionen verglichen und gemäß dem größten Wert als nächste Position entschieden und eventuell die richtige PachmanAction über „Methode Name“ zurückgegeben.
